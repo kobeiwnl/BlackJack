@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90447b1d-2344-4ef7-af3f-fb7306f03053" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mC0ovyFrsWDrkvWqQ7La05Ma6X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BlackJackApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BlackJackApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Deck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImageTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.BasePlayerTest.calculateHandScoreHandlesAcesCorrectly.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasePlayerTest.calculateHandScoreHandlesMultipleAcesCorrectly.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasePlayerTest.calculateHandScoreReturnsCorrectScore.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasePlayerTest.calculateHandScore_multipleAces.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasePlayerTest.calculateHandScore_noAces (1).executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.BasePlayerTest.calculateHandScore_noAces.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasePlayerTest.calculateHandScore_withAces.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasePlayerTest.clearHandEmptiesHand.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasePlayerTest.drawAddsCardToHand.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasePlayerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlackJackGameTest.dealerPlaysTurnCorrectly.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlackJackGameTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlackJackGameTest.gameStart_initializesGameCorrectly.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlackJackGameTest.gameStartsWithCorrectInitialSetup.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlackJackGameTest.playerAndDealerTie.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlackJackGameTest.playerBustsAndDealerWins.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlackJackGameTest.playerCanBetInsurance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlackJackGameTest.playerWinsWithBlackjack.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlackJackViewTest.updatePlayerHand_DisplaysCorrectCards.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CardImageTest.backImageIsLoadedCorrectly.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CardImageTest.cardImageIsCaseInsensitive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CardImageTest.cardImageIsLoadedCorrectly.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CardImageTest.cardImageIsNullForInvalidCard.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CardImageTest.cardImageIsNullForNonExistentImage.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CardTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DealerTest.dealerPlaysUntilScoreAtLeast17.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DealerTest.dealerStopsDrawingWhenScoreIs17OrMore.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DealerTest.draw_addsCardToHand.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DealerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DealerTest.playTurn_bust.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DealerTest.playTurn_stopsAtSeventeen.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DealerTest.showFirstCard.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DealerTest.showHand.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DeckTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ImageExistenceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.betChips_failure.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.betChips_success.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.betInsurance_failure.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.betInsurance_success.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.calculateScore_mainHand.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.calculateScore_splitHand.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.canSplit_false.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.canSplit_true.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.drawCardAddsToHand.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.PlayerTest.draw_addsCardToHand (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.draw_addsCardToHand.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.draw_addsCardToSplitHand.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.loseChips.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.loseInsurance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.showHandReturnsCorrectString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.splitHand_createsSplitHand.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.winChips.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerTest.winInsurance.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Matt Ramos/OneDrive - uniroma1.it/Corsi Uni/Metodologie di Programmazione/BackUpBlackJack/BlackJackProject/src/Images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Controller" />
+      <recent name="Tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Matt Ramos\OneDrive - uniroma1.it\Corsi Uni\Metodologie di Programmazione\BackUpBlackJack\BlackJackProject\src\Images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90447b1d-2344-4ef7-af3f-fb7306f03053" name="Changes" comment="" />
+      <created>1726565429652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726565429652</updated>
+      <workItem from="1726565431322" duration="5501000" />
+      <workItem from="1726650456986" duration="5263000" />
+      <workItem from="1726834406280" duration="1104000" />
+      <workItem from="1726836626592" duration="4833000" />
+      <workItem from="1727106263935" duration="1686000" />
+      <workItem from="1727365769947" duration="2883000" />
+      <workItem from="1727700846498" duration="4765000" />
+      <workItem from="1728373973313" duration="4161000" />
+      <workItem from="1728388405777" duration="5850000" />
+      <workItem from="1728921466285" duration="4139000" />
+      <workItem from="1729004308365" duration="8028000" />
+      <workItem from="1729513168112" duration="2813000" />
+      <workItem from="1729526135166" duration="120000" />
+      <workItem from="1729576959317" duration="2723000" />
+      <workItem from="1729601368291" duration="4084000" />
+      <workItem from="1729699733865" duration="5640000" />
+      <workItem from="1729769796038" duration="5860000" />
+      <workItem from="1729789905327" duration="1812000" />
+      <workItem from="1729933265994" duration="1987000" />
+      <workItem from="1729937946489" duration="457000" />
+      <workItem from="1730225089865" duration="10000" />
+      <workItem from="1730295597207" duration="4000000" />
+      <workItem from="1730311517759" duration="4809000" />
+      <workItem from="1730361847547" duration="9180000" />
+      <workItem from="1730912403742" duration="519000" />
+      <workItem from="1730913270210" duration="2909000" />
+      <workItem from="1730985072659" duration="28000" />
+      <workItem from="1730985116361" duration="266000" />
+      <workItem from="1730985804277" duration="56000" />
+      <workItem from="1730986080694" duration="3262000" />
+      <workItem from="1732021849409" duration="6058000" />
+      <workItem from="1732202603961" duration="4347000" />
+      <workItem from="1732704194802" duration="34000" />
+      <workItem from="1736844783567" duration="4676000" />
+      <workItem from="1736859203952" duration="6178000" />
+      <workItem from="1737030511852" duration="626000" />
+      <workItem from="1737058573523" duration="5401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang">
+            <option name="NOTIFY_UNCAUGHT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
