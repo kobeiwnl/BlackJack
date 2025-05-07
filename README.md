@@ -1,0 +1,1 @@
+Trattandosi del mio primo progetto in Java, sono possibili miglioramenti futuri sia per quanto riguarda l’audio che l’interfaccia grafica. Per avviare la simulazione del gioco, eseguire l'applicazione JBlackJack.
